@@ -1,0 +1,2 @@
+# scandf
+Scan Duplicated Files
